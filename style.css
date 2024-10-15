@@ -1,0 +1,40 @@
+body { 
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  background-color: rgb(255, 90, 186);
+  font-weight: 300;
+  font-size: larger;
+  margin: 0;
+  padding: 20px
+ 
+}
+
+html {
+  text-align: center;
+  align-items: center;
+  margin-top: 3cap;
+  color: rgb(147, 255, 241);
+
+  max-width: 1200px;
+  background: rgb(230, 10, 219);
+  margin:
+   auto;
+   padding: 20px;
+   border-radius: 48px;
+   box-shadow:0 25px 10px rgb(119, 15, 255);
+  }
+  
+
+
+
+}
+
+
+
+
